@@ -1,3 +1,7 @@
+
 create this file 111
 我是令狐冲，我比岳不群厉害 edit by 令狐冲测试合并冲突
+=======
+create this file 11i1
+我是令狐冲，我比岳不群厉害  edit by 岳不群 测试合并冲突
 令狐冲第二次修改后添加到岳不群的远程库
